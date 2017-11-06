@@ -1,2 +1,4 @@
 # User Authentication With Express and Mongo
-Project code to support the [Treehouse](https://teamtreehouse.com) course [User Authentication With Express and Mongo](https://teamtreehouse.com/library/user-authentication-with-express-and-mongo)
+This project was created in terms of Treehouse JS course.
+
+To make it work it is required to start mongoDB first.
